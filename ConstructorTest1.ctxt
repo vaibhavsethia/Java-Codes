@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ConstructorTest1()
+comment1.params=x\ y
+comment1.target=ConstructorTest1(int,\ int)
+comment2.params=
+comment2.target=void\ show()
+numComments=3
