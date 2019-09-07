@@ -1,5 +1,8 @@
-# Java-Programs
-<<<<<<< HEAD
-=======
-Personal Java Program Collections
->>>>>>> 86efb7ad40a1d86d3aede34ebc72421381db0a0f
+# Java-Programs 
+
+The above repository contains a collection of JAVA programs for multiple uses 
+
+For any assistance :
+      https://www.geeksforgeeks.org/java-tutorials/
+      https://www.youtube.com/watch?v=hBh_CC5y8-s
+      
